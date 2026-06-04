@@ -2,7 +2,7 @@
 // @name         creativetim fix
 // @description  removes the signup requirement from creativetim.
 // @version      2
-// @icon         https://i.imgur.com/ORAaPzD.png
+// @icon         https://villainsrule.xyz/favicon-96x96.png
  
 // @author       VillainsRule
 // @namespace    https://villainsrule.xyz

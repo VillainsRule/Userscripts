@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         mywordle cheat
 // @description  get the answer for a mywordle
-// @icon         https://i.imgur.com/ORAaPzD.png
+// @icon         https://villainsrule.xyz/favicon-96x96.png
 // @version      1
 
 // @author       VillainsRule

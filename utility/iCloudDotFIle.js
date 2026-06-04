@@ -2,7 +2,7 @@
 // @name         iCloud dotfile
 // @description  allows you to view files & folders starting with "." in iCloud.
 // @version      1
-// @icon         https://i.imgur.com/ORAaPzD.png
+// @icon         https://villainsrule.xyz/favicon-96x96.png
 
 // @author       VillainsRule
 // @namespace    https://villainsrule.xyz

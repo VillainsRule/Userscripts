@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         higherlowergame "hack"
 // @description  why did i make this...
-// @icon         https://i.imgur.com/ORAaPzD.png
+// @icon         https://villainsrule.xyz/favicon-96x96.png
 // @version      2
 
 // @author       VillainsRule

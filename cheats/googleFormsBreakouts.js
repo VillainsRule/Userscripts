@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google Forms Breakout Cheat!
 // @description  For teachers who put students through Google Forms "Breakout Rooms".
-// @icon         https://i.imgur.com/ORAaPzD.png
+// @icon         https://villainsrule.xyz/favicon-96x96.png
 // @version      1
 
 // @author       VillainsRule
