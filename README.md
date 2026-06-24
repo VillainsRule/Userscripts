@@ -1,18 +1,16 @@
 <div align='center'>
-  <h1>greasyfork</h1>
-  <h3>a collection of the scripts on my greasyfork</h3>
+  <h1>userscripts</h1>
+  <h3>a collection of random userscripts i've written overtime</h3>
 </div>
 
 <br>
 
-most of these are:
+this repository is conveniently sorted into:
 
-1. shitty game cheats
-2. developer utilities
-3. bad web design fixes (guilded cough cough)
+- [cheats](./cheats) - cheats for various games or school sites that don't deserve their own repository
+- [utilities](./utility) - QoL scripts for random things
 
-all of the scripts are on my [greasyfork profile](https://greasyfork.org/users/1300472) for easy installation.<br>
-listing each script sounds like using a lot of time i don't have. read file names, or open my greasyfork.
+these are no longer on greasyfork, as it's easiest to get them from here.
 
 <br><br>
-<h5 align='center'>made with :trollface: by VillainsRule</h5>
+<h5 align='center'>made with ❤️</h5>
