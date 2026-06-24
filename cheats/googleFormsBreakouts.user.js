@@ -24,7 +24,7 @@ window.addEventListener('load', () => {
         if (possibleAnswers) {
             const descElement = element.querySelector('div[role="heading"]')?.parentElement?.children[1];
             const prefix = descElement.innerText.length > 0 ? '\n\n' : '';
-            if (descElement) descElement.textContent = prefix + `possible answers: ${possibleAnswers.map(e => `"${e}"`).join(',')}`;
+            if (descElement) descElement.textContent = prefix + `[BREAKOUT CHEAT] possible answers: ${possibleAnswers.map(e => `"${e}"`).join(',')}`;
         }
     });
 });
